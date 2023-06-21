@@ -15,21 +15,21 @@
 
 <h2> Technologies </h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="React Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Icon" style="height: 7%; width: 7%;"></img>
-<img src="" alt="MongoDB Icon" style="height: 7%; width: 7%;"></img>
-<img src="" alt="Python Icon" style="height: 7%; width: 7%;"></img>
-<img src="" alt="Ruby Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="Express Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Django Icon" style="height: 7%; width: 7%;"></img>
-<img src="" alt="Express Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="PostgreSQL Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Google Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="JWT Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="AWS Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Docker Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" alt="Rails Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Mongoose Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="JQuery Icon" style="height: 7%; width: 7%;"></img>
-<img src="" alt="Rails Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="HTML Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="CSS Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="VS Code Icon" style="height: 7%; width: 7%;"></img>
