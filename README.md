@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://www.ceipal.com/wp-content/uploads/2022/11/google-auth-logo-white.webp" alt="Google Auth Icon" style="height: 12%; width: 12%;"></img>
-<img src="" alt="JWT Auth Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MWaFPsFv41TlfUpUkIuHcw.png" alt="JWT Auth Icon" style="height: 12%; width: 12%;"></img>
 <img src="" alt="AWS Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" alt="Rails Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="Docker Icon" style="height: 7%; width: 7%;"></img>
