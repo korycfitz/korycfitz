@@ -15,5 +15,4 @@
 
 <h2> Technologies </h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript Icon" style="height: 7.5%; width: 7.5%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript Icon" style="height: 7.5%; width: 7.5%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript Icon" style="height: 7.5%; width: 7.5%;">
+<img 
