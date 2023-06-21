@@ -16,7 +16,7 @@
 <h2> Technologies </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="height: 50px; width: 50px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby Icon" style="height: 100px; width: 50px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="Ruby Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="Django Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" style="height: 50px; width: 50px; margin: 5px;">
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain-wordmark.svg" alt="Rails Icon" style="height: 50px; width: 50px; margin: 50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="Docker Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg" alt="Azure Icon" style="height: 50px; width: 50px; margin: 5px;">
-  <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose Icon" style="height: 100px; width: 100px; margin: 5px;">
+  <img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" alt="JQuery Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize Icon" style="height: 50px; width: 50px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt="HTML Icon" style="height: 50px; width: 50px; margin: 5px;">
