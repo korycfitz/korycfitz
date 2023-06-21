@@ -14,4 +14,4 @@
 ♠️ In my free time I enjoy playing poker, fantasy sports, running, and traveling. <br>
 
 <h2> Technologies </h2>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon">
