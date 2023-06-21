@@ -14,5 +14,13 @@
 ♠️ In my free time I enjoy playing poker, fantasy sports, running, and traveling. <br>
 
 <h2> Technologies </h2>
-<img src="[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg)" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
+<img src="" alt="JavaScript Icon" style="height: 7%; width: 7%;"></img>
