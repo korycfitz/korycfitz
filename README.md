@@ -28,6 +28,7 @@
 <img src="" alt="JWT Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="AWS Auth Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Docker Icon" style="height: 7%; width: 7%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original-wordmark.svg" alt="Azure Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="Mongoose Icon" style="height: 7%; width: 7%;"></img>
 <img src="" alt="JQuery Icon" style="height: 7%; width: 7%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt="HTML Icon" style="height: 7%; width: 7%;"></img>
