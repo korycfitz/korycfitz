@@ -11,7 +11,7 @@
 </a>
 <br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
-♠️ In my free time I enjoy playing poker, fantasy sports, running, and traveling. <br>
+♠️ In my free time, I enjoy playing poker, fantasy sports, running, and traveling. <br>
 
 <h2> Technologies </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
