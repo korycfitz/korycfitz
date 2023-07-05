@@ -12,7 +12,7 @@
 <br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
 ♠️ In my free time, I enjoy playing poker, fantasy sports, running, and traveling. <br>
-
+ 
 <h2> Technologies </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript Icon" style="height: 50px; width: 50px; margin: 5px;">
