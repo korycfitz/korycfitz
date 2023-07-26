@@ -10,7 +10,7 @@
   Linkedin.
 </a>
 <br>
-Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">
+📖 Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">
   here.
 </a>
 <br>
