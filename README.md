@@ -6,7 +6,7 @@
 📫 How to reach me: Email me at <a href="mailto:korycfitz@gmail.com" target="_blank">
   korycfitz@gmail.com
 </a>
-<a href="https://www.linkedin.com/in/kory-fitzgerald/" target="_blank">Linkedin</a>
+or connect with me on <a href="https://www.linkedin.com/in/kory-fitzgerald/" target="_blank">Linkedin</a>.
 <br>
 📖 Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">here</a>.
 <br>
