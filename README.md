@@ -6,13 +6,9 @@
 📫 How to reach me: Email me at <a href="mailto:korycfitz@gmail.com" target="_blank">
   korycfitz@gmail.com
 </a>
- or connect with me on <a href="https://www.linkedin.com/in/kory-fitzgerald/" target="_blank">
-  Linkedin.
-</a>
+<a href="https://www.linkedin.com/in/kory-fitzgerald/" target="_blank">Linkedin</a>
 <br>
-📖 Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">
-  here.
-</a>
+📖 Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">here</a>.
 <br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
 ♠️ In my free time, I enjoy playing poker, fantasy sports, running, and traveling. <br>
