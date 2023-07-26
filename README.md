@@ -10,6 +10,10 @@
   Linkedin.
 </a>
 <br>
+Check out my <a href="https://korycfitz.github.io/" target="_blank">
+  portfolio website.
+</a>
+<br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
 ♠️ In my free time, I enjoy playing poker, fantasy sports, running, and traveling. <br>
  
