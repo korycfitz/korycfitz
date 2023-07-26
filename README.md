@@ -10,8 +10,8 @@
   Linkedin.
 </a>
 <br>
-Check out my <a href="https://korycfitz.github.io/" target="_blank">
-  portfolio website.
+Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">
+  Here.
 </a>
 <br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
