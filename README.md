@@ -11,7 +11,7 @@
 </a>
 <br>
 Check out my portfolio website <a href="https://korycfitz.github.io/" target="_blank">
-  Here.
+  here.
 </a>
 <br>
 📈 Before I started pursuing a career in software engineering, I worked as an equity trader at a proprietary trading firm. <br>
